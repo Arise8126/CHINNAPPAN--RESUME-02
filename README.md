@@ -138,7 +138,7 @@ console.log(chinnappan.motto());
 |---|---|
 | C Programming Certification | * infosys springboard certificate * |
 | Ethical Hacking Certification | *Unstop certificate * |
-|web development |* FIIT intership *|
+|web development |* FIIT internship *|
 
 </div>
 
@@ -151,7 +151,7 @@ console.log(chinnappan.motto());
 **B.E. Electronics & Communication Engineering** — VSB Engineering College
 CGPA: 8.14 &nbsp;|&nbsp; 12th Grade: 80%
 
-**Languages Spoken:** Tamil, English
+**Languages Spoken:** Tamil, English, Telugu 
 
 ---
 
