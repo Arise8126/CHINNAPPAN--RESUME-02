@@ -138,6 +138,7 @@ console.log(chinnappan.motto());
 |---|---|
 | C Programming Certification | * infosys springboard certificate * |
 | Ethical Hacking Certification | *Unstop certificate * |
+|web development |* FIIT intership *|
 
 </div>
 
