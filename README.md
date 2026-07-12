@@ -98,7 +98,7 @@ console.log(chinnappan.motto());
 ### 💼 Experience
 
 <details>
-<summary><b>Web Development Intern</b> — <i>Company name & dates: add here</i></summary>
+<summary><b>Web Development Intern</b> — <i>FIIT & 01 June 2026: add here</i></summary>
 <br>
 
 - Learned front-end web development fundamentals: HTML, CSS, and JavaScript
@@ -108,7 +108,7 @@ console.log(chinnappan.motto());
 
 </details>
 
-> *Add your internship's company name, location, and dates here — they weren't listed on the source resume.*
+> *FIIT - TIRUVANAMALAI INTERSHIP WEB DEVELOPMENT *
 
 ---
 
